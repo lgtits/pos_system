@@ -1,0 +1,3 @@
+# pos_systempos機模擬
+
+運用prototype原型鏈建立instance、管理自定義function
